@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld2", "HelloWorld2\HelloWorld2.csproj", "{C2A0DFF6-457D-49AD-99B9-5AB1A9415D20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld3", "HelloWorld3\HelloWorld3.csproj", "{583AD2AA-9FB9-4264-A336-7B3DA834F4C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C2A0DFF6-457D-49AD-99B9-5AB1A9415D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2A0DFF6-457D-49AD-99B9-5AB1A9415D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2A0DFF6-457D-49AD-99B9-5AB1A9415D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583AD2AA-9FB9-4264-A336-7B3DA834F4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583AD2AA-9FB9-4264-A336-7B3DA834F4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583AD2AA-9FB9-4264-A336-7B3DA834F4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583AD2AA-9FB9-4264-A336-7B3DA834F4C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
