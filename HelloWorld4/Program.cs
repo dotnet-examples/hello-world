@@ -1,4 +1,6 @@
-﻿namespace HelloWorld4;
+﻿// read the args.
+
+namespace HelloWorld4;
 
 class Program
 {

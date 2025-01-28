@@ -1,4 +1,7 @@
-﻿namespace HelloWorld3;
+﻿// The simplist helloworld application,
+// with return / exit code.
+
+namespace HelloWorld3;
 
 class Program
 {

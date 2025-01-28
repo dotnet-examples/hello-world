@@ -1,9 +1,11 @@
-﻿namespace HelloWorld2;
+﻿// The simplist helloworld application,
+// with implicit internal modifier for class,
+// and implicit private modifier for method.
 
-// Implicitly to be `internal` for class
+namespace HelloWorld2;
+
 class Program
 {
-    // Implicitly to be `private` for method
     static void Main()
     {
         Console.WriteLine("Hello, World!");
